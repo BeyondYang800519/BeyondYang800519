@@ -97,7 +97,7 @@
             <img src="">
         </div>
         <p>
-        Hi, My name is Sophia Li, and I am an 8th grader from BASIS International School Nanjing.
+       Hello everyone! I am the leader of HP group, Sophia Li. I am currently attending 9th grade in BASIS Nanjing. I like to sing, teach, and draw comics. I am also really interested in Synthetic Biology and Computer Science, so I attended iGEM.  I will use my professional skills, biological knowledge, and excellent leadership to compete for the grand prize together with our team!
         </p>
     </div>
 </div>
